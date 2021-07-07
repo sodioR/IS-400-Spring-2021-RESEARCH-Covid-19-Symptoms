@@ -1,1 +1,1 @@
-# IS-400-Sprinh-2021-RESEARCH-Covid-19-Symptoms
+# IS-400-Spring-2021-RESEARCH-Covid-19-Symptoms
